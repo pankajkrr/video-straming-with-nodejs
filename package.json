@@ -1,0 +1,16 @@
+{
+  "name": "video-streaming-with-nodejs",
+  "version": "1.0.0",
+  "description": "NA",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Suraj Roy",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.11.0"
+  }
+}
